@@ -1,0 +1,10 @@
+.red{
+    background-color: #DD1818;
+    height: 100px;
+    display: flex;
+}
+.logo{
+position: relative;
+width: 211px;
+height: 60px;
+}
