@@ -71,4 +71,7 @@ h1{
         width: 80px;
         height: 50px;
     }
+    nav li{
+        padding: 0px; 
+    }
   }
