@@ -13,6 +13,9 @@ h1{
     text-align: center;
     text-decoration: underline;
 }
+.center{
+    text-align: center;
+}
 .section-2_2{
     display: flex;
     justify-content: space-around;
